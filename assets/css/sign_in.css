@@ -1,0 +1,30 @@
+body{
+  background-color: rgb(77,171,109);
+}
+.sign-in{
+  background-color: white;
+  width: 250px;
+  height: 300px;
+  margin-left: 40%;
+  margin-top: 8%;
+  border-radius: 5%;
+}
+h1{
+  padding: 10px;
+  margin-left: 25%;
+}
+input{
+  display: block;
+  margin-top: 10px;
+  margin-left: 35px;
+  padding: 10px 15px;
+  background-color: rgb(225,225,225);
+  color: rgb(159,159,159);
+  border: none;
+  text-align: center;
+}
+#button{
+  background-color: rgb(77,171,109);
+  color: white;
+  width: 175px;
+}

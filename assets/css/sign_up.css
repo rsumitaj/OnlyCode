@@ -1,0 +1,36 @@
+body{
+  background-color: rgb(77,171,109);
+}
+.sign-up{
+  background-color: white;
+  width: 400px;
+  height: 400px;
+  margin-left: 35%;
+  margin-top: 8%;
+  border-radius: 5%;
+}
+
+h1{
+  padding: 10px;
+  margin-left: 35%;
+}
+
+input{
+  margin-top: 10px;
+  margin-left: 10%;
+  padding: 10px 15px;
+  background-color: rgb(225,225,225);
+  color: rgb(159,159,159);
+  border: none;
+  text-align: center;
+  width: 80%;
+  text-transform: uppercase;
+}
+
+#button{
+  background-color: rgb(77,171,109);
+  color: white;
+  width: 70%;
+  margin-left: 15%;
+  margin-top: 5%;
+}
