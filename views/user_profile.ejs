@@ -1,2 +1,14 @@
  <link rel="stylesheet" href="/css/user_profile.css">
  <h1>OnlyCode / Sumit Raj</h1>
+
+ <form action="/users/delete-session" method="POST">
+  <input type="submit" value="Sign Out">
+</form>
+
+ <p>
+   Name : <%= user.name %>
+ </p>
+
+ <p>
+  Email : <%= user.email %>
+</p>
